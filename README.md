@@ -16,7 +16,8 @@ Step 4: Enter Percentage Identity in (%)<br/>
 Screened.fasta<br/>
 **Note**<br/>
 Please adjust query coverage and percentage thresholds for better result<br/>
-
+**Citation**<br/>
+https://github.com/karthick1087/Ultra-Gene-Screen<br/>
 
 
 
